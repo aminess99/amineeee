@@ -1,0 +1,26 @@
+# ملفات مؤقتة وإخراج
+*.wav
+*.mp3
+output_*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.pytest_cache/
+
+# مجلد Coqui TTS المستنسخ (كبير جداً)
+coqui-ai-TTS/
+
+# ملفات IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ملفات النظام
+.DS_Store
+Thumbs.db
